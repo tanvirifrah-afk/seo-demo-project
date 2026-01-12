@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Women Leather Handbag | Stylish & Durable Handbags Online</title>
+    <meta name="description" content="Shop premium women leather handbags with elegant design and long-lasting quality. Order online at the best price with fast delivery.">
+    <meta name="keywords" content="women leather handbag, stylish handbags for women, buy leather handbag, premium handbags online">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; background-color: #f9f9f9; }
+        .container { width: 90%; max-width: 900px; margin: auto; padding: 20px; background-color: #fff; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h1, h2 { color: #333; }
+        img { max-width: 100%; height: auto; margin: 20px 0; }
+        ul { list-style: disc; margin-left: 20px; }
+        .btn { display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; margin-top: 20px; }
+        .btn:hover { background-color: #0056b3; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Women Leather Handbag – Elegant & Durable Design</h1>
+
+        <img src="https://via.placeholder.com/600x400?text=Women+Leather+Handbag" alt="Women Leather Handbag Brown">
+
+        <p>
+            Discover the perfect combination of style and durability with our premium women leather handbag. 
+            Made from top-quality leather, it’s perfect for everyday use or special occasions.
+            Shop online now and enjoy fast delivery at the best price.
+        </p>
+
+        <h2>Features & Benefits:</h2>
+        <ul>
+            <li>High-quality genuine leather</li>
+            <li>Elegant and modern design</li>
+            <li>Durable stitching for long-lasting use</li>
+            <li>Spacious compartments for everyday essentials</li>
+            <li>Perfect for gifting or personal use</li>
+        </ul>
+
+        <h2>Why Choose This Handbag?</h2>
+        <p>
+            Our handbags are designed for fashion-conscious women who demand both style and practicality.
+            Each product is carefully crafted and inspected to ensure maximum satisfaction.
+        </p>
+
+        <a href="#" class="btn">Buy Now</a>
+
+        <h2>SEO Demo Project</h2>
+        <p>
+            This page is an executed demo project demonstrating on-page SEO skills, including keyword optimization, meta tags, headings, image alt text, and structured content.
+        </p>
+    </div>
+</body>
+</html>
